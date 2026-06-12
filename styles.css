@@ -1,0 +1,52 @@
+.navbar {
+    display: flex;
+    gap: 800px;
+    
+}
+.button {
+    display: flex;
+    padding-bottom: 90px;
+    gap: 10px;
+    border: 2px solid white ;
+    
+}
+p {
+    display: flex;
+    margin-bottom: 50px;
+}
+.Heading {
+position: relative;
+display: inline-block;
+}
+.overlay-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
+h3 { position: absolute;
+top: 54%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.button-2 {
+    position: absolute;
+    top: 57%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    
+}
+.Download{
+    font-size: 40px;
+    border: 2px solid white;
+
+    
+}
+.Read-more {
+     font-size: 40px;
+    border: 2px solid white;
+  
+    background-color: blueviolet;
+    
+}
